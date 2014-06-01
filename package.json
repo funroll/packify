@@ -1,0 +1,21 @@
+{
+  "name": "packify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/funroll/packify.git"
+  },
+  "keywords": [
+    "browserify"
+  ],
+  "dependencies": {
+    "browser-module-sandbox": "funroll/browser-module-sandbox"
+  },
+  "author": "Peter Jenkins <peter@funroll.co> (http://funroll.co)",
+  "license": "MIT"
+}
